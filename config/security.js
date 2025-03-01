@@ -33,12 +33,12 @@ module.exports.security = {
   //   allowCredentials: false,
   // },
 
-  cors: {
-    allRoutes: true,
-    allowOrigins: ["http://localhost:5173"],
-    allowRequestMethods: "GET, POST, PUT, DELETE, OPTIONS, HEAD",
-    allowRequestHeaders: "Content-Type, Authorization",
-  },
+  // cors: {
+  //   allRoutes: true,
+  //   allowOrigins: ["http://localhost:5173"],
+  //   allowRequestMethods: "GET, POST, PUT, DELETE, OPTIONS, HEAD",
+  //   allowRequestHeaders: "Content-Type, Authorization",
+  // },
 
   /****************************************************************************
    *                                                                           *
